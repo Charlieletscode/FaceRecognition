@@ -8,5 +8,3 @@
 7. Add images to database
 8. Realtime database update
 9. Limit number of attendance per day
-
-https://charlieletscode-facerecognition-web1-ak5m8b.streamlit.app/
